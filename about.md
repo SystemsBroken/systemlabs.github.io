@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Digital Forensic Consultant, specializing in Incident Response who also conducts Penetration Tests and Purple Teaming exercises.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog will be dedicated to both DFIR and Hacking (Internal Pentesting initially, likely more to come). Including some Field notes on Purple Teaming.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:mike@systemlabs.org)
