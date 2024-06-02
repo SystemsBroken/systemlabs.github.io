@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With Active Directory
 ---
 
-Let's Make sure We Hammer those Active Directory Fundamentals
+Let's Make sure We Hammer those Active Directory Fundamentals.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
