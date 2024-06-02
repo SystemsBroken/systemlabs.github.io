@@ -13,4 +13,4 @@ This blog will be dedicated to both DFIR and Hacking (Internal Pentesting initia
 
 ### Contact me
 
-[email@domain.com](mailto:mike@systemlabs.org)
+[mike@systemlabs.org](mailto:mike@systemlabs.org)
