@@ -3,7 +3,7 @@ layout: post
 title: Getting Started With Active Directory
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Let's Make sure We Hammer those Active Directory Fundamentals
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
